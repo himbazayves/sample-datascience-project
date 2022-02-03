@@ -1,0 +1,16 @@
+Course Name: Programming and Problem Solving for Data Analytics
+
+Course Code: 04802-E
+
+Instructor: George Okeyo.
+
+TAs: [Faustin, Janvier, Pacifique]
+
+Assignment Title: Assignment III, Exploratory Data Analysis and Reporting.
+
+Report Title: Agricultural and food production index in African regions.
+
+Group Members: Manzi Patrick(pmanzi), Mugiraneza himbaza Yves(ymugiran), Jean Paul Nishimirwe(jnishimi), Uwase Maliki(muwase).
+
+Submission Date: 1:06 AM 8/11/2021
+
